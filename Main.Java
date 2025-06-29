@@ -58,30 +58,11 @@ public class Main {
 }
 
 /*
-Console Output (when running with sample inputs):
+Console Output:
 
 Java program by Sebastian Carrasco!
 The sum of 15 and 25 is 40
 You selected: YES
 I am going to exit anyway :) 
 
-Execution Flow:
-1. Dialog box asks: "What is your full name?" → User enters: Sebastian Carrasco
-2. Dialog box asks: "Enter first number" → User enters: 15
-3. Dialog box asks: "Enter second number" → User enters: 25
-4. Console prints: "Java program by Sebastian Carrasco!"
-5. Console prints: "The sum of 15 and 25 is 40"
-6. Message dialog shows the sum result with Java logo
-7. Confirmation dialog asks: "Are you ready to exit?" → User clicks: YES
-8. Console prints: "You selected: YES"
-9. Console prints: "I am going to exit anyway :) "
-
-Note: The actual output will vary based on your inputs. The JavaLogo.jpg image will 
-appear in the message dialog if the image file is present in the src folder.
-
-To run this program:
-1. Compile: javac src/Main.java
-2. Run: java -cp src Main
-3. Follow the dialog prompts
-4. View the console output shown above
 */
